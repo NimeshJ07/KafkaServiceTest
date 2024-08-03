@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP NET\\Kafka\\Consumer\\testConsumer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C97EE045-2F83-4D25-A954-A3F805F0DDA9}|demoConsumer\\demoConsumer.csproj|d:\\asp net\\kafka\\consumer\\testconsumer\\democonsumer\\democonsumer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C97EE045-2F83-4D25-A954-A3F805F0DDA9}|demoConsumer\\demoConsumer.csproj|solutionrelative:democonsumer\\democonsumer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C97EE045-2F83-4D25-A954-A3F805F0DDA9}|demoConsumer\\demoConsumer.csproj|d:\\asp net\\kafka\\consumer\\testconsumer\\democonsumer\\democonsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C97EE045-2F83-4D25-A954-A3F805F0DDA9}|demoConsumer\\demoConsumer.csproj|solutionrelative:democonsumer\\democonsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "demoConsumer.cs",
+              "DocumentMoniker": "D:\\ASP NET\\Kafka\\Consumer\\testConsumer\\demoConsumer\\demoConsumer.cs",
+              "RelativeDocumentMoniker": "demoConsumer\\demoConsumer.cs",
+              "ToolTip": "D:\\ASP NET\\Kafka\\Consumer\\testConsumer\\demoConsumer\\demoConsumer.cs",
+              "RelativeToolTip": "demoConsumer\\demoConsumer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T05:36:35.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "demoConsumer",
+              "DocumentMoniker": "D:\\ASP NET\\Kafka\\Consumer\\testConsumer\\demoConsumer\\demoConsumer.csproj",
+              "RelativeDocumentMoniker": "demoConsumer\\demoConsumer.csproj",
+              "ToolTip": "D:\\ASP NET\\Kafka\\Consumer\\testConsumer\\demoConsumer\\demoConsumer.csproj",
+              "RelativeToolTip": "demoConsumer\\demoConsumer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-03T05:35:58.25Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
